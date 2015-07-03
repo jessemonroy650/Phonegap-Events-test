@@ -25,7 +25,7 @@ volumeupbutton   | untested | - | -
 
 event | status 
 ------|--------
-deviceready     | Working as expected on all current Demo Examples
+deviceready     | Working as expected on all current [Demo Examples](http://codesnippets.altervista.org/examples/phonegap/demos/PUBLIC.Apps.html)
 batterycritical | Working on [Phonegap-Battery-Test](https://github.com/jessemonroy650/Phonegap-Battery-Test)
 batterylow      | :::
 batterystatus   | vvv
