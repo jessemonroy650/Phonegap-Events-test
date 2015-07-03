@@ -2,6 +2,7 @@
 Date: 2015-07-02
 
 **Current Status of untested**
+
 event | status | Android | iOS
 ------|--------|---------|----
 pause            | untested | - | -
@@ -15,12 +16,13 @@ volumedownbutton | untested | - | -
 volumeupbutton   | untested | - | -
 
 **Inprocess of Testing**
-* https://github.com/jessemonroy650/Phonegap-PauseResume-test
-* https://github.com/jessemonroy650/Phonegap-PhysicalButton-test
-* https://github.com/jessemonroy650/Phonegap-CallButton-test
-* https://github.com/jessemonroy650/Phonegap-VolumeButton-test
+* https://github.com/jessemonroy650/Phonegap-PauseResume-test  (pause,resume)
+* https://github.com/jessemonroy650/Phonegap-PhysicalButton-test  (backbutton,menubutton,searchbutton)
+* https://github.com/jessemonroy650/Phonegap-CallButton-test (startcallbutton,endcallbutton)
+* https://github.com/jessemonroy650/Phonegap-VolumeButton-test (volumedownbutton,volumeupbutton)
 
 **Already Tested**
+
 event | status 
 ------|--------
 deviceready     | Working as expected on all current Demo Examples
