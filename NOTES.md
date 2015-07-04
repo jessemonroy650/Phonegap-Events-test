@@ -1,6 +1,8 @@
 = NOTES =
 Date: 2015-07-02
 
+Note, a lot of the tutorials trap the event and write to the screen. That's it. We'll try to do more.
+
 https://groups.google.com/forum/#!topic/phonegap/-PuXRAdcRfY
 
 http://docs.phonegap.com/en/3.3.0/cordova_events_events.md.html#Events
@@ -21,11 +23,3 @@ http://docs.phonegap.com/en/3.3.0/cordova_events_events.md.html#Events
 * volumedownbutton
 * volumeupbutton
 
-
-== Notes from web ==
-
-''PhoneGap Lifecycle Events''
-* http://simonmacdonald.blogspot.com/2011/04/phonegap-lifecycle-events.html
-* April 29, 2011
-* Has rudimentry example, with use of ''load and unload'' (not phonegap events), and example placement of ''deviceready, pause, resume''
-* ''source:'' https://dl.dropboxusercontent.com/u/887989/phonegap-examples/events.html
