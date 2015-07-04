@@ -24,5 +24,3 @@ startcallbutton  | cannot test - I don't own a blackberry.
 endcallbutton    | cannot test - I don't own a blackberry.
 volumedownbutton | cannot test - I don't own a blackberry.
 volumeupbutton   | cannot test - I don't own a blackberry.
-
-
