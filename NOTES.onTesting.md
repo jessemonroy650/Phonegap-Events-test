@@ -5,15 +5,11 @@ Date: 2015-07-02
 
 event | status | Android | iOS 
 ------|--------|---------|-----
-pause            | untested | - | -
-resume           | untested | - | -
-volumedownbutton | untested | - | -
-volumeupbutton   | untested | - | -
+volumedownbutton | in progress | - | -
+volumeupbutton   | in progress | - | -
 backbutton       | untested | - | N/A (Not Available on iOS)
 menubutton       | untested | - | N/A (Not Available on iOS)
 searchbutton     | untested | - | N/A (Not Available on iOS)
-startcallbutton  | cannot test | - | N/A (I don't own a blackberry.)
-endcallbutton    | cannot test | - | N/A (I don't own a blackberry.)
 
 **Inprocess of Testing**
 * https://github.com/jessemonroy650/Phonegap-PauseResume-test  (pause,resume)
@@ -35,4 +31,6 @@ online          | Working on [Phonegap-Network-Info-Test](https://github.com/jes
 offline         | :::
 startcallbutton | cannot test - I don't own a blackberry.
 endcallbutton   | cannot test - I don't own a blackberry.
+pause           | Working on [Phonegap-PauseResume-test](https://github.com/jessemonroy650/Phonegap-PauseResume-test.git) **iOS has quirk**
+resume          | Working on [Phonegap-PauseResume-test](https://github.com/jessemonroy650/Phonegap-PauseResume-test.git)
 
