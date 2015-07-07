@@ -15,7 +15,7 @@ batterylow       | Working on [Phonegap-Battery-Test](https://github.com/jessemo
 batterystatus    | Working on [Phonegap-Battery-Test](https://github.com/jessemonroy650/Phonegap-Battery-Test)
 online           | Working on [Phonegap-Network-Info-Test](https://github.com/jessemonroy650/Phonegap-Network-Info-Test)
 offline          | Working on [Phonegap-Network-Info-Test](https://github.com/jessemonroy650/Phonegap-Network-Info-Test)
-pause            | Working on [Phonegap-PauseResume-test](https://github.com/jessemonroy650/Phonegap-PauseResume-test.git) **iOS has quirk**
+pause            | Working on [Phonegap-PauseResume-test](https://github.com/jessemonroy650/Phonegap-PauseResume-test.git) - **iOS has quirk**
 resume           | Working on [Phonegap-PauseResume-test](https://github.com/jessemonroy650/Phonegap-PauseResume-test.git)
 backbutton       | Working on [Phonegap-PhysicalButton-test](https://github.com/jessemonroy650/Phonegap-PhysicalButton-test.git) - Not Available on iOS
 menubutton       | Working on [Phonegap-PhysicalButton-test](https://github.com/jessemonroy650/Phonegap-PhysicalButton-test.git) - Not Available on iOS
